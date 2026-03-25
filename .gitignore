@@ -1,0 +1,24 @@
+# Build output
+rewind
+/dist/
+
+# Rewind data directory
+.rewind/
+
+# PRD
+prd.md
+
+# Go
+*.test
+*.out
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
